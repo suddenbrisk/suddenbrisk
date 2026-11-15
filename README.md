@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Suddenbrisk</h2>
+<p align="center">Software Developer 👾</p>
 
-<!--
-**suddenbrisk/suddenbrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="figma logo" />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+</div>
